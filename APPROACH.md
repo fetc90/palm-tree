@@ -48,13 +48,14 @@ Done
 * Started project again as now have a clear idea what I need to do, Tutorial had left out step in initial instructions and I was finidng it difficult to go back and put that in.
 * Got it sorted!
 
-![ar_tree_side](images/AR_top.png)
-![ar_tree_top](images/AR_side.png) <br>
+![ar_tree_side](images/AR_top.png) <br>
+![ar_tree_top](images/AR_side.png)
 
 
 25 mins || Done
-* Tried to build project as Android app but Android SDK not found. What is Android SDK? 
+* Tried to build project as Android app but Android SDK not found. What is Android SDK?
 
+![sdk](images/sdk.png)
 ```
 The Android SDK (software development kit) is a set of development tools used to develop applications for Android platform. The Android SDK includes the following:
 
@@ -72,7 +73,7 @@ Tutorials for the Android OS
 * Need to add Android SDK to Unity via preferences. Huawei P20 Pro uses the Android platform 8.1 (Oreo), upgradable to 9.0 (Pie). Installing Oreo via Android Studio preferences. 
 * Found this in Unity Hub! More installing...
 
-![AndroidSDK](images/AndroidSDK.png)
+![AndroidSDK](images/sdkndk.png)
 
 25 mins || Done
 * Tried to build and run Android app but device not found though phone is plugged in. Need to enable USB debugging somehow.
