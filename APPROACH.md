@@ -26,7 +26,7 @@ Done
 * Added tracking image to plane
 * Added first tree! 
 
-![tree](images/first_setup.png)
+![first_setup](images/first_setup.png)
 
 * Need to invest in a mouse for easier use of Unity
 
@@ -39,7 +39,7 @@ Done
 * Added Vuforia lscense key to app in Unity.
 * Created database in Vuforia to add tracking image which has lots of tracking features as highlighted by yellow crosses.
 
-![tracking](images/tracking_features.png)
+![tracking_features](images/tracking_features.png)
 * Downloaded database in Unity Editor
 * Imported custom assets in Unity from database.
 * This guide is quite outdated and the steps are not in order so going to try and find a different guide. Frustrating as it feels like i'm trying to go backwards - wondering if at this point it's easier to start a new project.
@@ -48,8 +48,8 @@ Done
 * Started project again as now have a clear idea what I need to do, Tutorial had left out step in initial instructions and I was finidng it difficult to go back and put that in.
 * Got it sorted!
 
-![tree](images/ar_tree_top.png) <br>
-![tree](images/ar_tree_side.png)
+![ar_tree_top](images/ar_tree_top.png) <br>
+![ar_tree_side](images/ar_tree_side.png)
 
 25 mins || Done
 * Tried to build project as Android app but Android SDK not found. What is Android SDK? 
@@ -70,4 +70,4 @@ Tutorials for the Android OS
 * Tried importing Unity project to Android Studio but no frameworks detected. Maybe I need to create an Android project from scratch.
 * Need to add Android SDK to Unity via preferences. Huawei P20 Pro uses the Android platform 8.1 (Oreo), upgradable to 9.0 (Pie). Installing Oreo via Android Studio preferences. 
 * Found this in Unity Hub! More installing...
-![Android](images/AndroidSDK.png)
+![AndroidSDK](images/AndroidSDK.png)
