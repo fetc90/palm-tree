@@ -8,4 +8,4 @@ Additional features: Each time the user interacts with the tree on their phone, 
 
 #### Technologies
 
-The script is in C# and the programme was built on Unity.
+This project was built with Unity and Android Studio.

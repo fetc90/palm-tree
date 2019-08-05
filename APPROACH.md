@@ -50,3 +50,20 @@ Done
 
 ![tree](images/ar_tree_top.png) <br>
 ![tree](images/ar_tree_side.png)
+
+25 mins || Done
+* Tried to build project as Android app but Android SDK not found. What is Android SDK? 
+
+```
+The Android SDK (software development kit) is a set of development tools used to develop applications for Android platform. The Android SDK includes the following:
+
+Required libraries
+Debugger
+An emulator
+Relevant documentation for the Android application program interfaces (APIs)
+Sample source code
+Tutorials for the Android OS
+```
+* Downloaded Android Studio for Mac and setup installation... 
+* Researched how to run my app via SDK. 
+* Verifying Adroid Studio... 
