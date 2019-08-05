@@ -14,6 +14,5 @@ _AR simulation on webcam._ -->
 
 **App deployed on Android device**
 
-![ar_tree_side](images/13.png)
 ![ar_tree_side](images/17.png)
 <img src="images/treeandroid.jpg" height="778" />
