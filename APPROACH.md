@@ -43,3 +43,10 @@ Done
 * Downloaded database in Unity Editor
 * Imported custom assets in Unity from database.
 * This guide is quite outdated and the steps are not in order so going to try and find a different guide. Frustrating as it feels like i'm trying to go backwards - wondering if at this point it's easier to start a new project.
+
+45 mins || Done
+* Started project again as now have a clear idea what I need to do, Tutorial had left out step in initial instructions and I was finidng it difficult to go back and put that in.
+* Got it sorted!
+
+![tree](images/ar_tree_top.png) <br>
+![tree](images/ar_tree_side.png)
