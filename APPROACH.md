@@ -5,7 +5,7 @@
 * How to deploy Unity app 
 * Set up repo / file setup
 * Spoke to Magnus - deployed app to Oculus but that is for Rift or VR
-* Vuforia is a software development kit - ‘leading AR platform’. Found this tutorial: [Vuforia Unity Android Tutorial, Your First AR App in 20 minutes - YouTube](https://www.youtube.com/watch?v=HnjbTytHH6U). Need to get image for app to appear on. Images have an augmental score - lots of targets. Then download database for Unity editor. But I already have Unity so I don’t need to do that.
+* Vuforia is a software development kit - ‘leading AR platform’. Found this [tutorial](https://www.youtube.com/watch?v=HnjbTytHH6U). Need to get image for app to appear on. Images have an augmental score - lots of targets. Then download database for Unity editor. But I already have Unity so I don’t need to do that.
 Assets -> Import package -> Custom package. 
 Add character to target image, set positioning to 0, 0, 0. 
 How to get to mobile. File -> Build settings -> Select Androis. In PlayerSettings. 
@@ -48,8 +48,9 @@ Done
 * Started project again as now have a clear idea what I need to do, Tutorial had left out step in initial instructions and I was finidng it difficult to go back and put that in.
 * Got it sorted!
 
-![ar_tree_top](images/ar_tree_top.png) <br>
-![ar_tree_side](images/ar_tree_side.png)
+![ar_tree_side](images/AR_top.png)
+![ar_tree_top](images/AR_side.png) <br>
+
 
 25 mins || Done
 * Tried to build project as Android app but Android SDK not found. What is Android SDK? 

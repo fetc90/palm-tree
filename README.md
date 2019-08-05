@@ -1,4 +1,4 @@
-Palm Tree
+# Palm Tree
 
 MVP: An AR app for Android to simulate a peaceful tree.
 
