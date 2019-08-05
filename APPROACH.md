@@ -70,4 +70,10 @@ Tutorials for the Android OS
 * Tried importing Unity project to Android Studio but no frameworks detected. Maybe I need to create an Android project from scratch.
 * Need to add Android SDK to Unity via preferences. Huawei P20 Pro uses the Android platform 8.1 (Oreo), upgradable to 9.0 (Pie). Installing Oreo via Android Studio preferences. 
 * Found this in Unity Hub! More installing...
+
 ![AndroidSDK](images/AndroidSDK.png)
+
+25 mins || Done
+* Tried to build and run Android app but device not found though phone is plugged in. Need to enable USB debugging somehow.
+* Need to go to developer mode on mobile phone: Settings > About phone > Build Mode (tape 7 times) - `You are now a developer!`. 
+* Build seems to have initially worked but then has frozen on `Buidling Gradle project`
