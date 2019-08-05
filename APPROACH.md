@@ -78,4 +78,6 @@ Tutorials for the Android OS
 25 mins || Done
 * Tried to build and run Android app but device not found though phone is plugged in. Need to enable USB debugging somehow.
 * Need to go to developer mode on mobile phone: Settings > About phone > Build Mode (tape 7 times) - `You are now a developer!`. 
-* Build seems to have initially worked but then has frozen on `Buidling Gradle project`
+* Build seems to have initially worked but then has frozen on `Buildng Gradle project`
+* Finally uploaded! <br><br>
+![ALT Text](https://media.giphy.com/media/Q7XLrtEpNkGq4Ea5JB/giphy.gif)
