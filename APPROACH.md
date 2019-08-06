@@ -81,3 +81,11 @@ Tutorials for the Android OS
 * Build seems to have initially worked but then has frozen on `Buildng Gradle project`
 * Finally uploaded! <br><br>
 ![ALT Text](https://media.giphy.com/media/Q7XLrtEpNkGq4Ea5JB/giphy.gif)
+
+
+25 mins || Done
+Aim : Add interaction with palm tree
+* Created C# script for palm tree. 
+* Researching add UI to Unity object. Need to add canvas to game to add buttons. Is button correct or does it need to be something different?
+* What is a Mesh renderer?
+* Ok - getting slightly confused as jumping between tutorials. Downloaded bubbles to come out from tree so when user touches tree, they appear. Going back to firework tutorial.
