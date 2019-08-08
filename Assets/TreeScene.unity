@@ -129,7 +129,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000012696881832, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
       propertyPath: m_Name
-      value: Particle jiggly bubble soapy
+      value: Bubbles
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000012696881832, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4000010731693402, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -177,15 +181,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010731693402, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
       propertyPath: m_LocalScale.x
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4000010731693402, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
       propertyPath: m_LocalScale.y
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4000010731693402, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
       propertyPath: m_LocalScale.z
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d1adb20421ed664b800c8cf3d103e70, type: 3}
@@ -960,7 +964,7 @@ GameObject:
   - component: {fileID: 1369975645}
   - component: {fileID: 1369975644}
   m_Layer: 5
-  m_Name: ButterflyButton
+  m_Name: BubbleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1028,7 +1032,29 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1369975645}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 225123143}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1369975645

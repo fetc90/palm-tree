@@ -4,25 +4,23 @@ using UnityEngine;
 
 public class PalmTreeScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
+    
+    void Start(){
 
-    public GameObject PalmTree:
-        private Me
+    }
 
-
-    void Start()
+    public void OnClickCreateBubbles()
     {
+        var bubblesPrototype = Resources.Load("Bubbles", typeof(GameObject)) as GameObject;
+        var newBubbles = GameObject.Instantiate(bubblesPrototype);
+        var bubblesRb = newBubbles.GetComponent<Rigidbody>();
+    }
+    
+
+    // // Update is called once per frame
+    // void Update()
+    // {
         
-    }
-
-    private void OnClickShowButterflies()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    // }
 }
